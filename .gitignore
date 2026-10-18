@@ -1,0 +1,18 @@
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Secretos y variables de entorno
+.env
+.env.*
+
+# Configuración local de Streamlit
+.streamlit/secrets.toml
+
+# Archivos temporales y del editor
+*.swp
+*.bak
