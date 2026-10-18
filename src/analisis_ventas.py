@@ -1,6 +1,7 @@
 import pandas as pd
 
 # Datos ficticios de ventas de una tienda online
+# Este script calcula indicadores comerciales y facturacion por producto.
 ventas = [
     {"producto": "Teclado", "categoria": "Perifericos", "unidades": 12, "precio": 35.00},
     {"producto": "Mouse", "categoria": "Perifericos", "unidades": 20, "precio": 18.00},
