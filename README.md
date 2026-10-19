@@ -71,3 +71,28 @@ GitHub: "Uriel-Ortiz" (https://github.com/Uriel-Ortiz)
 ---
 
 Built with Python, Pandas, Streamlit, and Plotly.
+
+
+## Live Demo
+
+Try the interactive dashboard online:
+
+[Launch SalesPulse Dashboard](https://salespulse-uriel-ortiz.streamlit.app/)
+
+## Dashboard Screenshots
+
+### Dashboard Overview
+
+![SalesPulse Dashboard Overview](screenshots/dashboard-overview.jpeg)
+
+### Revenue by Product
+
+![Revenue by Product](screenshots/revenue-by-product.jpeg)
+
+### Revenue by Hour
+
+![Revenue by Hour](screenshots/revenue-by-hour.jpeg)
+
+### Weekly Revenue
+
+![Weekly Revenue](screenshots/weekly-revenue.jpeg)
